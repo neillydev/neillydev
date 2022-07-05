@@ -1,5 +1,5 @@
 
-# Vernon Neilly III - Full Stack Developer
+# Vernon Neilly
 
 [![portfolio](https://img.shields.io/badge/%F0%9F%93%93-My%20Portfolio-blueviolet)](https://neilly.dev)
 
